@@ -1,0 +1,7 @@
+pandas
+pyspark
+pyarrow
+kaggle
+fastapi
+uvicorn
+pylint
